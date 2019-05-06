@@ -66,26 +66,6 @@
     <body>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
-                <div class="content">
-                    <div class="title m-b-md">
-                        O site dahora
-                    </div>
-                    Aqui vão meus testes
-                    <div class="content">dsadsad
-                        dasdasdadajh
-                    </div>
-
-
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({
-                            google_ad_client: "ca-pub-5126773966914838",
-                            enable_page_level_ads: true
-                        });
-                    </script>
-                </div>
-            @endif
-
                 <div class="top-right links">
                     @auth
                         <a href="{{ url('/home') }}">Home</a>
@@ -97,6 +77,22 @@
                         @endif
                     @endauth
                 </div>
+            @endif
+
+            <div class="content">
+                <div class="title m-b-md">
+                    O site dahora
+                </div>
+                Aqui vão meus testes
+
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({
+                        google_ad_client: "ca-pub-5126773966914838",
+                        enable_page_level_ads: true
+                    });
+                </script>
+            </div>
         </div>
     </body>
 </html>
