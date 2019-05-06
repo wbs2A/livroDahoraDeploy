@@ -83,7 +83,9 @@
                 <div class="title m-b-md">
                     O site dahora
                 </div>
+                Aqui vão meus testes
 
+                dasdasdadajh
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <script>
                     (adsbygoogle = window.adsbygoogle || []).push({
