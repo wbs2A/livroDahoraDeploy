@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    O site dahora
+                    A Valzinha é dahora
                 </div>
                 Aqui vão meus testes
 
