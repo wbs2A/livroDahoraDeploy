@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    A Valzinha é dahora
+                    A Cintia é dahora
                 </div>
                 Aqui vão meus testes
 
