@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    A Cintia é dahora
+                   O heroku é dahora
                 </div>
                 Aqui vão meus testes
 
